@@ -802,5 +802,8 @@ body {
     .bloc-mob-center-text {
     text-align : center;
     }
+    .contact-bouton {
+        font-size: 25px;
+    }
     }
     
